@@ -1,2 +1,3 @@
-file2 created in repo
+file2 created in modified
 line2 f2
+deleted l2
